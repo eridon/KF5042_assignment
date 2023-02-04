@@ -17,7 +17,7 @@ To run the vehicle detection model, you will need to have Matlab installed on yo
 
 To run the vehicle detection model, you will need the following software:
 
-- Matlab - The model was developed and tested using Matlab R2020b.
+- Matlab - The model was developed and tested using Matlab R2022a.
 - Image Processing Toolbox - This toolbox provides the necessary functions for image and video analysis.
 
 # Background
