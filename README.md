@@ -1,6 +1,6 @@
 # Vehicle Detection Model Project
 
-This repository contains the code for a vehicle detection model created using Matlab. The model uses a deep learning approach to identify vehicles in an image or video stream.
+This repository contains the code for a vehicle detection model created using Matlab. The model uses a deep learning approach to identify vehicles in an image stream.
 
 # Contents
 
